@@ -1,0 +1,5 @@
+db.sqlite3
+settings/__pycache__/
+.env
+.idea/
+*.pyc
