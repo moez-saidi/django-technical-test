@@ -1,5 +1,6 @@
 # Technical Test Django
 
+A beginner friendly Django REST Test to check the fundamentals of whom you are recruiting on models, serializers, views and tests.
 ## Getting Started
 
 These instructions will get you a clone of the project up and running on your local machine for development and testing purposes.
